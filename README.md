@@ -21,9 +21,6 @@ In recognition of my academic and social contributions, I was honored with the *
 - A*, Gradient Descent, NLP, PCA, SVM, Logistic Regression  
 - EM Clustering, Decision Trees, Reinforcement Learning  
 
-**Soft Skills**:  
-- Communication, teamwork, leadership, problem-solving, and organization  
-
 ---
 
 ## 💻 Projects  

@@ -21,7 +21,7 @@ In recognition of my academic and social contributions, I was honored with the *
 
 ---
 
-## 💻 Projects  
+## 💻 A Selection of My Projects
 ### **Co-op Game**  
 - A dynamic web game leveraging AI algorithms and Game Theory strategies to create interactive, engaging gameplay.  
 - Built using Phaser 3, React, and JavaScript, it serves as both a fun project and a research tool to analyze decision-making in collaborative environments.  
@@ -29,7 +29,6 @@ In recognition of my academic and social contributions, I was honored with the *
 ### **EM Clustering Algorithm**  
 - Implemented Expectation-Maximization for article classification, achieving 61.5% accuracy.  
 - Analyzed and visualized performance metrics such as perplexity and confusion matrices.
-- And more..
 
 ---
 

@@ -1,11 +1,9 @@
-# Hi, I'm Yuval Dahari 👋  
-
-🎓 **AI Researcher & Developer | Master’s Student in AI**  
+# Hi, I'm Yuval Dahari 👋   
 
 ---
 
 ## 🚀 About Me  
-I'm a dedicated AI Algorithm Researcher and Developer, currently pursuing a Master's degree in Artificial Intelligence at Bar-Ilan University as part of the prestigious Maalot excellence program, which allows students to complete both their Bachelor's and Master's degrees within four years. I enjoy solving complex problems, whether in academics, projects, or real-world applications.  
+I'm an AI Algorithm Researcher and Developer, currently pursuing a Master's degree in Artificial Intelligence at Bar-Ilan University as part of the prestigious Maalot excellence program, which allows students to complete both their Bachelor's and Master's degrees within four years. I enjoy solving complex problems, whether in academics, projects, or real-world applications.  
 
 In recognition of my academic and social contributions, I was honored with the **Hila Scholarship** during my undergraduate studies. In addition to my technical pursuits, I serve as the Chairman of the CS Students Council and actively contribute to my community through leadership roles and volunteering.   
 

@@ -1,6 +1,6 @@
 # Hi, I'm Yuval Dahari 👋  
 
-🎓 **AI Researcher & Developer | M.Sc. in AI**  
+🎓 **AI Researcher & Developer | Master’s Student in AI**  
 
 ---
 

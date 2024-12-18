@@ -32,7 +32,7 @@ In recognition of my academic and social contributions, I was honored with the *
 
 ---
 
-## 🌱 What I'm Learning  
+## 🧠 What I'm Learning  
 I'm currently deepening my knowledge of **PyTorch** and exploring advanced AI algorithms to further enhance my expertise in deep learning and data science.
 
 ---

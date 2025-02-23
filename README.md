@@ -33,7 +33,7 @@ In recognition of my academic and social contributions, I was honored with the *
 ---
 
 ## 🧠 What I'm Learning  
-I'm currently deepening my knowledge of **PyTorch** and exploring advanced AI algorithms to further enhance my expertise in deep learning and data science.
+I'm currently deepening my knowledge of **Generative AI** and exploring advanced algorithms to further enhance my expertise in deep learning and data science.
 
 ---
 
@@ -44,4 +44,4 @@ I'm currently deepening my knowledge of **PyTorch** and exploring advanced AI al
 ---
 
 ### 🌟 Fun Fact  
-I've been leading a weekly volunteer program at a nursing home since 2011—community impact is as important to me as technological innovation.  
+I've been leading a weekly volunteer program at a nursing home since 2011-community impact is as important to me as technological innovation.  

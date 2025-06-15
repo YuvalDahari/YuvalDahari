@@ -3,9 +3,15 @@
 ---
 
 ## 🚀 About Me  
-I'm an Data Scientist Researcher, currently pursuing a Master's degree in Deep Learning at Bar-Ilan University as part of the prestigious Maalot excellence program, which allows students to complete both their Bachelor's and Master's degrees within four years. I enjoy solving complex problems, whether in academics, projects, or real-world applications.  
+Hi, I’m Yuval. I’m an M.Sc. student in Computer Science at Bar-Ilan University, currently finishing the final requirements of my degree in a direct excellence program, with a focus on Deep Learning and Generative AI.
 
-In recognition of my academic and social contributions, I was honored with the **Hila Scholarship** during my undergraduate studies. In addition to my technical pursuits, I serve as the Chairman of the CS Students Council and actively contribute to my community through leadership roles and volunteering.   
+My thesis focuses on improving text-to-image generation using diffusion models. I also worked on a web-based game platform developed for a research team, used for experimental purposes. In this project, I implemented AI agents that interact with human players, using various search algorithms and game theory techniques.
+
+I have experience programming in Python, Java, JavaScript, and C. I enjoy breaking down complex problems and building clear, efficient solutions.
+
+Outside of the technical work, I’ve served as Chair of the Computer Science Student Council and as a board member of the Student Union. I also volunteer weekly at a nursing home and have been doing so for over a decade.
+
+I’m always interested in learning and exploring new technologies.   
 
 ---
 

@@ -1,53 +1,43 @@
-# Hi, I'm Yuval Dahari 👋   
+# Hi, I'm Yuval Dahari 👋
 
 ---
 
 ## 🚀 About Me  
-Hi, I’m Yuval. I’m an M.Sc. student in Computer Science at Bar-Ilan University, currently finishing the final requirements of my degree in a direct excellence program, with a focus on Deep Learning and Generative AI.
+I’m a Software Engineer specializing in backend systems and applied AI.
 
-My thesis focuses on improving text-to-image generation using diffusion models. I also worked on a web-based game platform developed for a research team, used for experimental purposes. In this project, I implemented AI agents that interact with human players, using various search algorithms and game theory techniques.
+I build scalable systems in Python and Java and lead impactful AI initiatives that improve engineering efficiency. I enjoy designing clean architectures, automating complex workflows, and turning research-driven ideas into practical, production-ready solutions.
 
-I have experience programming in Python, Java, JavaScript, and C. I enjoy breaking down complex problems and building clear, efficient solutions.
+I have hands-on experience in Deep Learning and Generative AI, including work on improving text-to-image generation using diffusion models. I also developed an AI-driven web platform for experimental research, implementing intelligent agents that interact with human players using search algorithms and Game Theory.
 
-Outside of the technical work, I’ve served as Chair of the Computer Science Student Council and as a board member of the Student Union. I also volunteer weekly at a nursing home and have been doing so for over a decade.
+Beyond technology, I’ve served as Chair of the Computer Science Student Council and as a board member of the Student Union. I also lead a weekly volunteer program at a nursing home — a commitment I’ve maintained for over a decade.
 
-I’m always interested in learning and exploring new technologies.   
-
----
-
-## 🔧 Skills  
-**Languages & Tools**:  
-- Python, Java, C/C++  
-- PyTorch, NumPy, Matplotlib, Flask, REST API  
-- MySQL, MongoDB, Docker, GitHub  
-
-**AI & Data Science**:  
-- A*, Gradient Descent, NLP, PCA, SVM, Logistic Regression  
-- EM Clustering, Decision Trees, Reinforcement Learning  
+I’m passionate about Software Engineering and AI, and always interested in building systems that create real impact.
 
 ---
 
-## 💻 A Selection of My Projects
-### **Co-op Game**  
-- A dynamic web game leveraging AI algorithms and Game Theory strategies to create interactive, engaging gameplay.  
-- Built using Phaser 3, React, and JavaScript, it serves as both a fun project and a research tool to analyze decision-making in collaborative environments.  
+## 🔧 Technical Skills  
 
-### **EM Clustering Algorithm**  
-- Implemented Expectation-Maximization for article classification, achieving 61.5% accuracy.  
-- Analyzed and visualized performance metrics such as perplexity and confusion matrices.
+**Languages**  
+Python, Java, C/C++, JavaScript  
 
----
+**Backend & Infrastructure**  
+REST APIs, Microservices, Docker, MySQL, MongoDB, Git  
 
-## 🧠 What I'm Learning  
-I'm currently deepening my knowledge of **Generative AI** and exploring advanced algorithms to further enhance my expertise in deep learning and data science.
+**AI & Machine Learning**  
+PyTorch, Deep Learning, Generative AI, LLMs, Reinforcement Learning, Optimization Algorithms  
 
 ---
 
-## 🤝 Let's Connect!  
-- **GitHub**: [YuvalDahari](https://github.com/YuvalDahari)  
-- **LinkedIn**: [Yuval Dahari](https://www.linkedin.com/in/yuval-dahari/)  
+## 💻 Selected Projects  
+
+### 🧠 Co-op Game  
+AI-driven web platform leveraging search algorithms and Game Theory to create adaptive gameplay.  
+Built with Phaser 3, React, and JavaScript, serving as a research tool for analyzing collaborative decision-making.
+
+### 📊 EM Clustering Algorithm  
+Implemented Expectation-Maximization for article classification (61.5% accuracy) and analyzed performance using perplexity and confusion matrices.
 
 ---
 
-### 🌟 Fun Fact  
-I've been leading a weekly volunteer program at a nursing home since 2011-community impact is as important to me as technological innovation.  
+## 🤝 Connect  
+- LinkedIn: [Yuval Dahari](https://www.linkedin.com/in/yuval-dahari/)
